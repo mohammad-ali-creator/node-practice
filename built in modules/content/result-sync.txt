@@ -1,0 +1,2 @@
+we are not re-eriting the file rather we are appending the text: this is first txt some test text are here
+some change.. AND second text file some example text are going here
